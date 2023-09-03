@@ -1,0 +1,5 @@
+const AUTH_BEGIN = "AUTH_BEGIN";
+const AUTH_FAILURE = "AUTH_FAILURE";
+const AUTH_SUCCESS = "AUTH_SUCCESS";
+
+export const authActions = { AUTH_BEGIN, AUTH_FAILURE, AUTH_SUCCESS };
